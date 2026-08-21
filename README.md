@@ -20,7 +20,7 @@
     <a href="#education">Education</a>
     <a href="#publications">Publications</a>
     <a href="#teaching">Teaching</a>
-    <a href="#projects">Projects</a>
+    <a href="#presentations">Presentations</a>
     <a href="#cv">CV</a>
 </nav>
 
@@ -73,9 +73,18 @@ Amazon, B. & Sutton, A. L. (2026). [Review of the book Surviving solitary: Livin
 </section>
 My teaching philosophy is grounded in the belief that education is not simply about acquiring knowledge but about cultivating ethical, critically engaged thinkers who can navigate—and challenge—systems of power. As a criminologist and neurobiologically informed educator, I design learning environments that are rigorous, inclusive, and transformative. I aim to activate students’ cognitive, emotional, and moral reasoning simultaneously—especially in an era where socioeconomic pressures and over-reliance on generative AI risk undermining independent thought and deep learning.
 
-<section id="projects">
-    <h2>Selected Projects</h2>
+<section id="presentations">
+    <h2>Professional Presentations</h2>
 </section>
+
+Sutton A. L. Rise in Juveniles tried as Adults Through Transfers: The Use of Fear-Based Rhetoric Over Neuroscience Research. Paper presented at the American Society of Criminology, Washington, D.C., November, 2025.
+
+Sutton, A. L. Youth in Detention: Psychopathic Traits Fluctuate in the Transition from Adolescence to Young Adulthood as an Effect of Institutionalization. Paper presented at the American Society of Criminology, San Francisco, CA, November, 2024.
+
+Sutton, A. L. & Chen, F. R. Probation and Parole Officer Stress and Its Association with Officer-Supervisee Relationships. Paper presented at the Academy of Criminal Justice Sciences, Chicago, IL, March, 2024.
+
+Sutton, A. L. & Chen, F. R. The reciprocal relationships between moral disengagement and antisocial behavior from ages 16 to 23. Paper presented at the American Society of Criminology, 
+Philadelphia, PA, November, 2023.
 
 <section id="cv">
     <h2>Curriculum Vitae</h2>
