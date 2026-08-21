@@ -20,6 +20,7 @@
 <nav>
     <a href="#about">About</a>
     <a href="#research">Research</a>
+    <a href="#education">Education</a>
     <a href="#publications">Publications</a>
     <a href="#teaching">Teaching</a>
     <a href="#projects">Projects</a>
@@ -38,6 +39,26 @@
 <section id="research">
     <h2>Research Areas</h2>
 </section>
+
+
+<section id="education">
+    <h2>Education</h2>
+</section>
+## Education
+### Georgia State University
+
+**Ph.D. in Criminology**, in progress
+
+**M.S. in Criminal Justice**, 2026  
+Thesis: *Youth in Detention: Institutional Contexts and Within-Person Change in Psychopathic Traits*  
+[CrimRxiv Preprint](https://www.crimrxiv.com/pub/4le2u028/release/1) · [University Repository](https://doi.org/10.57709/410)
+
+**M.S. in Neurobiology and Behavior**, 2018
+Thesis: *The Role of Cortisol in Autism Spectrum Disorder and Proposed Methods for Stress Reduction*
+
+### Georgia Gwinnett College
+**B.S. in Cell Biology**, 2011
+Internship: Positive Reinforcement Training with Sooty Mangabeys at Yerkes National Primate Research Center, Field Station
 
 <section id="publications">
     <h2>Publications - Peer-reviewed Articles</h2>
