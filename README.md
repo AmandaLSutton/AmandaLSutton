@@ -44,7 +44,6 @@
 <section id="education">
     <h2>Education</h2>
 </section>
-## Education
 ### Georgia State University
 
 **Ph.D. in Criminology**, in progress
