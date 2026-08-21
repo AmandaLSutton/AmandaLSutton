@@ -14,7 +14,7 @@
 
 <header>
     <h1>Amanda L. Sutton</h1>
-    <p>Criminology • Neurodevelopment • Psychology</p>
+    <p>Developmental Theory - Behavioral Neurobiology - Psychopathy - Online Sexual Grooming - Mixed Methods - Neuroscience of Agency - Rhetoric</p>
 </header>
 
 <nav>
@@ -45,6 +45,7 @@
     <h2>Book Reviews</h2>
 </section>
 Sutton, A. L. (2026). [Review of the book Imperial policing: Weaponized data in carceral Chicago by Clarno, A., Alvear Moreno, E., Bonsu-Love, J., Dana, L., De Anda Muniz, M., Ravichandran, I., & Volpintesta, H.]. Criminal Justice Review. https://doi.org/10.1177/07340168251411314
+
 
 Amazon, B. & Sutton, A. L. (2026). [Review of the book Surviving solitary: Living and working in restricted housing units by Rudes, D. S.]. Criminal Justice Review. https://doi.org/10.1177/10575677261455837
 
